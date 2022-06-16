@@ -3,7 +3,7 @@
 
 ### Feel free to fork this repo and enhance them. ✌🏻 
 
-### | Projects 👇🏻 | Link |
+| Projects 👇🏻 | Link |
 | ------------- | ------------- |
 | Pokemon List  | https://aniruddhabagal.github.io/javascript-projects/Pokemon%20List  |
 |   |   |
