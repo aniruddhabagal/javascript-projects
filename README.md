@@ -5,3 +5,9 @@
 
 #### Projects: 👇🏻
 1. Pokemon List: https://aniruddhabagal.github.io/javascript-projects/Pokemon%20List/
+
+
+| Projects  | Link |
+| ------------- | ------------- |
+| Pokemon List  | https://aniruddhabagal.github.io/javascript-projects/Pokemon%20List  |
+| Content Cell  | Content Cell  |
