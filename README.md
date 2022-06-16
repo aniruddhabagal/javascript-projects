@@ -5,5 +5,5 @@
 
 | Projects 👇🏻 | Link |
 | ------------- | ------------- |
-| Pokemon List  | <a href="https://aniruddhabagal.github.io/javascript-projects/Pokemon%20List"> Hello </a> |
+| Pokemon List  | <a href="https://aniruddhabagal.github.io/javascript-projects/Pokemon%20List"> https://aniruddhabagal.github.io/javascript-projects/Pokemon%20List </a> |
 |   |   |
