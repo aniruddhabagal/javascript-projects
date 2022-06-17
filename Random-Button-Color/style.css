@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+
+button {
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+    background-color: #4caf50;
+    color: white;
+}
