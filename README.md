@@ -5,5 +5,6 @@
 
 | Projects 👇🏻 | Link |
 | ------------- | ------------- |
-| Pokemon List  | <a href="https://aniruddhabagal.github.io/javascript-projects/Pokemon%20List"> https://aniruddhabagal.github.io/javascript-projects/Pokemon%20List </a> |
-| Random Color Picker | <a href="https://aniruddhabagal.github.io/javascript-projects/Random%20Color%20Picker"> https://aniruddhabagal.github.io/javascript-projects/Random%20Color%20Picker </a> |
+| Pokemon List  | <a href="https://aniruddhabagal.github.io/javascript-projects/Pokemon-List"> https://aniruddhabagal.github.io/javascript-projects/Pokemon-List </a> |
+| Random Color Picker | <a href="https://aniruddhabagal.github.io/javascript-projects/Random-Color-Picker"> https://aniruddhabagal.github.io/javascript-projects/Random-Color-Picker </a> |
+| Random Button Color Picker | <a href="https://aniruddhabagal.github.io/javascript-projects/random-button-color"> https://aniruddhabagal.github.io/javascript-projects/Random-Button-Color </a> |
