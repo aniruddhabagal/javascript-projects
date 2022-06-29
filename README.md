@@ -8,3 +8,4 @@
 | Pokemon List  | <a href="https://aniruddhabagal.github.io/javascript-projects/Pokemon-List"> https://aniruddhabagal.github.io/javascript-projects/Pokemon-List </a> |
 | Random Color Picker | <a href="https://aniruddhabagal.github.io/javascript-projects/Random-Color-Picker"> https://aniruddhabagal.github.io/javascript-projects/Random-Color-Picker </a> |
 | Random Button Color Picker | <a href="https://aniruddhabagal.github.io/javascript-projects/random-button-color"> https://aniruddhabagal.github.io/javascript-projects/Random-Button-Color </a> |
+| Game Score Keeper | <a href="https://aniruddhabagal.github.io/javascript-projects/ping-pong-scorekeeper"> https://aniruddhabagal.github.io/javascript-projects/ping-pong-scorekeeper </a> |
