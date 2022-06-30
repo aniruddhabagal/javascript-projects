@@ -4,7 +4,7 @@ const resetBtn = document.querySelector("#resetBtn");
 
 const p1Disp = document.querySelector("#p1Disp");
 const p2Disp = document.querySelector("#p2Disp");
-const maxScoreSelect = document.querySelector('#playto')
+const maxScoreSelect = document.querySelector("#playto");
 
 let p1Score = 0;
 let p2Score = 0;
@@ -31,15 +31,18 @@ p2Btn.addEventListener("click", function () {
   }
 });
 
-resetBtn.addEventListener("click", function () {
+resetBtn.addEventListener("click", reset);
+
+maxScoreSelect.addEventListener("change", function () {
+  winningScore = parseInt(this.value);
+  reset();
+});
+
+function reset() {
   isGameOver = false;
   p1Score = 0;
   p2Score = 0;
 
   p1Disp.textContent = 0;
   p2Disp.textContent = 0;
-});
-
-maxScoreSelect.addEventListener('change', function(){
-    
-})
+}
