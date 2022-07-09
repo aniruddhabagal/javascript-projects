@@ -20,7 +20,7 @@ body{
 }
 
 .panel {
-    background-size: auto 100%;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 80vh;
@@ -30,7 +30,7 @@ body{
     flex: 0.5;
     margin: 10px;
     position: relative;
-    transition: flex 0,7s ease-in;
+    -webkit-transition: all 700ms ease-in;
 }
 
 .panel h3{
@@ -48,6 +48,7 @@ body{
 
 .panel.active h3 {
     opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
 }
 
 @media (max-width: 580px) {
