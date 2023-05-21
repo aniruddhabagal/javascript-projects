@@ -9,7 +9,7 @@ function solve() {
 
   let y = eval(x);
   
-  (document.getElementById("result").value = y);
+  document.getElementById("result").value = y;
 
   return y;
 }
