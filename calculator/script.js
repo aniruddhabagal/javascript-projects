@@ -7,7 +7,7 @@ function display(val) {
 function solve() {
   let x = document.getElementById("result").value;
 
-  let y = // Search how eval() function works and apply it.
+  let y = eval(x)
     (document.getElementById("result").value = y);
 
   return y;
